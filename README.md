@@ -1,9 +1,6 @@
 # Readme
 
 
-TEST
-aaaaaaaaaaaaaaaaaaa&
-
 
 ## Description of the First Version:
 
