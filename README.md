@@ -1,12 +1,10 @@
 # Readme
 
 
-
 ## Description of the First Version:
 
 This document provides instructions on how to use the app.
 
-## How to launch the app:
 
 ### Step 1: Download the Repository
 
@@ -43,17 +41,25 @@ If you don't have it, you can download it from the following links:
    ```
 2. **Wait for all the packages to install.**
 
-### Step 4: Run the App
+### Step 4: Run the Script
+   - To check which version of Python you have on your computer, type python --version or python3 --version. 
+      ```
+      python calcul.py 
+      ```
+      or
+      ```
+      python3 calcul.py
+      ```
+   - Follow the prompts in the script.
+   - The final file will be saved in the directory.
 
-1. **Navigate to the V1 directory:**
-   ```
-   cd V1
-   ```
-2. **Run the Streamlit app:**
+### Step 5: Run the App
+
+1. **Run the Streamlit app:**
    ```
    streamlit run coupedrones.py
    ```
-3. **Wait a few seconds for your browser to open automatically with a new tab displaying the app.**
+2. **Wait a few seconds for your browser to open automatically with a new tab displaying the app.**
 
    - If not you will see this in your command prompt:
      ```
@@ -65,3 +71,8 @@ If you don't have it, you can download it from the following links:
    - **Type the Local URL in your browser.**
 
 Congratulations, you are now using the app!
+
+3. Inside the app, select the file that you just created with the script
+
+
+
